@@ -3,3 +3,13 @@ color:red
 
 
 }
+#animal{
+background-color:rgba(0,0,255,0.5);
+
+}
+body {
+background-image: url("horse.jpg")
+}
+.content{
+color:white;
+}
