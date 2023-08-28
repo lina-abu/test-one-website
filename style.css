@@ -1,15 +1,5 @@
-#pagemiddle {
-color:red
-
-
-}
-#animal{
-background-color:rgba(0,0,255,0.5);
-
-}
-body {
-background-image: url("horse.jpg")
-}
-.content{
-color:white;
-}
+div{
+border:2px solid black
+border-height: 60
+border-width:60
+ }
